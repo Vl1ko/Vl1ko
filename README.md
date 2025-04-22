@@ -86,7 +86,7 @@ And when I'm not coding — you'll probably find me listening to some good Russi
  📞 Contact me
 </h1>
 <p align="center">
-  <a href='https://vk.com/vl1ko' target='_blank'><img width="50px" src='https://img.icons8.com/?size=100&id=13977&format=png&color=000000' border='0' alt='temp-Image-Fk-Xt-RO'/></a>
+  <a href='https://vk.com/v1lko' target='_blank'><img width="50px" src='https://img.icons8.com/?size=100&id=13977&format=png&color=000000' border='0' alt='temp-Image-Fk-Xt-RO'/></a>
   <a href='https://t.me/v1lko' target='_blank'><img width="50px" src='https://img.icons8.com/?size=100&id=63306&format=png&color=000000' border='0' alt='temp-Image-Fk-Xt-RO'/></a>
 </p>
 <p align="center">
