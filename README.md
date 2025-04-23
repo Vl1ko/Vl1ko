@@ -9,7 +9,7 @@
   <img src="https://www.codewars.com/users/Vl1ko/badges/large">
 </p>
 <p align="center">
-I'm a 1st-year Software Engineering student at ITMO University 🎓.<br/>
+I'm a Software Engineering from Saint-Petersburg 🏙️.<br/>
 I'm a passionate learner who's always eager to explore new technologies 🌐 and work across different domains 🧠.<br/>
 I enjoy applying tech to solve real-life problems 🔧 and love mentoring and helping others grow 🤝.<br/>
 Currently, I'm diving into Web Development 💻 and sharpening my skills in Data Structures and Algorithms 📊.<br/>
